@@ -22,7 +22,7 @@ I recommend using this topology as a blueprint if you want to practice building 
 Cybersecurity lab environments should never be bridged directly to your home network or the public internet without strict protections. The vulnerable nodes like Limgrave and Liurnia are intentionally flawed.
 
 ## Video
-[![Elden Ring but It Is My Cybersecurity Lab Project](https://img.youtube.com/vi/O9OWs27ZRmE/0.jpg)](https://youtu.be/O9OWs27ZRmE)
+[![Project Erdtree Demo](https://img.youtube.com/vi/65F-5O18Cm8/0.jpg)](https://youtu.be/65F-5O18Cm8)
 
 ## Topology & Subnet Breakdown
 
